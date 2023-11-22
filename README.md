@@ -1,4 +1,4 @@
-- 👋 Hi, I’m gayethri
+- 👋 Hi, my name is Gayathri V B, from Bangalore.
 - 👀 I’m interested in software development, full-stack development.
 - 🌱 I have completed my Post gradation(MCA) in the month of September 2023.
 - 💞️ I’m looking to collaborate on a team.
