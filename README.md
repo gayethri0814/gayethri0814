@@ -1,6 +1,6 @@
 - 👋 Hi, I’m gayethri
 - 👀 I’m interested in software development, full-stack development.
-- 🌱 I’m currently pursuing my master's in MCA.
+- 🌱 I have completed my Post gradation(MCA) in the month of September 2023.
 - 💞️ I’m looking to collaborate on a team.
 
 <!---
